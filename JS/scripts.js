@@ -8,3 +8,6 @@ var pingPong = function(inputNumber) {
 //Modify results to show returned numbers in an unordered list
 
 //Further modify to show any result where inputNumber % 3 === 0 returns the number 3, or inputNumber % 5 === 0 returns pong, or inputNumber % 15 === 0 returns pingpong.
+//if (index % 3 ===0) {
+  //console.log("ping");
+//}
