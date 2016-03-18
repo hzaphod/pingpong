@@ -2,7 +2,7 @@
 
 # Heather’s Code Review Project #3
 
-#### javaScript, jQuery, HTML and CSS for Epicodus, March 17th, 2016
+#### This simple "game" will take a user input number and display a list of numbers starting at 1 and ending at the user input, with a few exceptions. Written for Epicodus, March 17th, 2016
 
 #### By Heather McCarthy
 
@@ -13,7 +13,7 @@ _Attempts at writing business logic separate from user interface logic and use o
 ## Setup/Installation Requirements
 
 * Clone this repository and view individual files using Atom, or
-* View in Chrome or Safari at https://github.com/hzaphod/pingpong.git
+* Download directly from https://github.com/hzaphod/pingpong.git
 
 ## Known Bugs
 
